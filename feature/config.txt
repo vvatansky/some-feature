@@ -1,2 +1,4 @@
 enable: True
-pull: False
+pull: True
+
+Modified in <feature-1> locally
