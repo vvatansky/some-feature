@@ -3,3 +3,4 @@ pull: True
 branch: 3
 
 Modified in <feature-1> locally
+Another line in <feature-2>
